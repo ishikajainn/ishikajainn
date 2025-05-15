@@ -1,9 +1,9 @@
-## Hi there 👋, I'm Ishika Jain
-An Aspiring Data Analyst from Delhi, India
-A dedicated and motivated professional with a recent postgraduate certificate in Data Science and Analytics with Machine Learning. Proficient in data exploration, business analysis, visualization, and machine learning techniques. Determined to apply a diverse skill set to make meaningful impact in the field.
-
-👨‍💻 All of my projects are available at https://ishikajainportfolio.wixsite.com/ishikajain
-📫 How to reach me: ishikajain2032@gmail.com
+## Hi there 👋, I'm Ishika Jain <br>
+An Aspiring Data Analyst from Delhi, India <br>
+A dedicated and motivated professional with a recent postgraduate certificate in Data Science and Analytics with Machine Learning. Proficient in data exploration, business analysis, visualization, and machine learning techniques. Determined to apply a diverse skill set to make meaningful impact in the field. <br>
+<br>
+👨‍💻 All of my projects are available at https://ishikajainportfolio.wixsite.com/ishikajain <br>
+📫 How to reach me: ishikajain2032@gmail.com <br>
 
 ### Connect with me:
 <!--
