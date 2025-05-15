@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Ishika Jain
+An Aspiring Data Analyst from Delhi, India
+A dedicated and motivated professional with a recent postgraduate certificate in Data Science and Analytics with Machine Learning. Proficient in data exploration, business analysis, visualization, and machine learning techniques. Determined to apply a diverse skill set to make meaningful impact in the field.
 
+👨‍💻 All of my projects are available at https://ishikajainportfolio.wixsite.com/ishikajain
+📫 How to reach me: ishikajain2032@gmail.com
+
+### Connect with me:
 <!--
 **ishikajainn/ishikajainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
