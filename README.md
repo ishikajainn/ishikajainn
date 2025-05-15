@@ -4,7 +4,9 @@
 A dedicated and motivated professional with a recent postgraduate certificate in Data Science and Analytics with Machine Learning. Proficient in data exploration, business analysis, visualization, and machine learning techniques. Determined to apply a diverse skill set to make meaningful impact in the field. <br>
 <br>
 👨‍💻 All of my projects are available at https://ishikajainportfolio.wixsite.com/ishikajain <br>
-📫 How to reach me: ishikajain2032@gmail.com
+📫 How to reach me : 
+<a href="mailto:ishikajain2032@gmail.com">ishikajain2032@gmail.com</a>
+
 <br>
 <BR>
 <b>🫀SKILLS ACQUIRED:</b> <br>
